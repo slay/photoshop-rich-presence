@@ -4,14 +4,14 @@
   "description": "Discord Rich Presence for Adobe Photoshop",
   "main": "photocord.js",
   "author": "vereas",
-  "homepage": "https://github.com/overrateddev/photocord",
+  "homepage": "https://github.com/vereas/photocord",
   "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/overrateddev/photocord.git"
+    "url": "git+https://github.com/vereas/photocord.git"
   },
   "dependencies": {
     "active-win": "^3.0.0",
