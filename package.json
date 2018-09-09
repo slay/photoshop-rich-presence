@@ -2,8 +2,8 @@
   "name": "photocord",
   "version": "1.0.0",
   "description": "Discord Rich Presence for Adobe Photoshop",
-  "main": "app.js",
-  "author": "overrateddev",
+  "main": "photocord.js",
+  "author": "vereas",
   "homepage": "https://github.com/overrateddev/photocord",
   "license": "ISC",
   "scripts": {
@@ -16,7 +16,6 @@
   "dependencies": {
     "active-win": "^3.0.0",
     "discord-rpc": "^3.0.0-beta.4",
-    "events": "^3.0.0",
     "ffi": "^2.2.0"
   }
 }
