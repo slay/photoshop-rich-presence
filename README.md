@@ -1,7 +1,7 @@
 Photoshop Rich Presence
 ====================
 
-**Discord Rich Presence for Adobe Photoshop.**
+**Discord Rich Presence for Adobe Photoshop**
 
 *This is not sponsored or affiliated with Discord or Adobe.*
 
@@ -20,9 +20,12 @@ How to Setup
 FAQ
 -------
    Q: I closed the RPC however it still shows on my Discord profile?
+   
    A: **Discord can take up to one minute to clear the RPC from displaying on your profile**
    
+   
    Q: I found an error / I'm having trouble setting this up, where can I go?
+   
    A: **Create an issue in this repo and I will assist with any issues**
 
 License
