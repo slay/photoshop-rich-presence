@@ -2,6 +2,8 @@ Photoshop Rich Presence
 ====================
 
 **Discord Rich Presence for Adobe Photoshop**
+*Works with Windows and macOS*
+
 
 *This is not sponsored or affiliated with Discord or Adobe.*
 
@@ -34,6 +36,8 @@ FAQ
 
 License
 ------
+
+*Credits to imsmokie for the idea*
 
 Licensed under ISC. See `LICENSE` for more details.
 
