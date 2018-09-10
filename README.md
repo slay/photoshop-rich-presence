@@ -5,15 +5,19 @@ Photoshop Rich Presence
 
 *This is not sponsored or affiliated with Discord or Adobe.*
 
+![N|Solid](https://file.ovdev.io/img/dplu4i54xw.png)
+
 
 How to Setup
 ------------
 
    **Make sure you have Git, NodeJS (8.0.0+) and npm (5.0.0+) installed**
    
+   
+   **Of course, Discord and Photoshop should be open when running the RPC**
+   
    - Clone this repository: `git clone https://github.com/vereas/photoshop-rich-presence.git`
    - Install the required modules using: `npm install`
-   - Make sure Discord and Photoshop are running
    - Run the RPC with: `node rpc`
 
 
