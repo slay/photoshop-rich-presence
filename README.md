@@ -5,7 +5,7 @@ Photoshop Rich Presence
 
 *This is not sponsored or affiliated with Discord or Adobe.*
 
-![N|Solid](https://file.ovdev.io/img/dplu4i54xw.png)
+![N|Solid](https://file.ovdev.io/img/qbphyeaty5.png)
 
 
 How to Setup
