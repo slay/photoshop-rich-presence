@@ -26,9 +26,13 @@ How to Setup
 
 FAQ
 -------
+   Q: Why is nothing being shown on my profile?
+   
+   A: **Make sure that "Display currently running game as a status message" is active. You can find this in Discord settings, then "Games"**
+
    Q: I closed the RPC however it still shows on my Discord profile?
    
-   A: **Discord can take up to one minute to clear the RPC from displaying on your profile**
+   A: **Discord can take up to one minute to clear the RPC from your profile**
    
    
    Q: I found an error / I'm having trouble setting this up, where can I go?
