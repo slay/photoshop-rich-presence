@@ -20,12 +20,12 @@ async function checkPhotoshop() {
 
           if (split[0] !== currentFile) {
             currentFile = split[0];
-            updateRP(`Editing ${split[0]}`);
+            updateRP(`Editing ${currentFile}`);
           }
       } else {
           if (currentFile !== "IDLE") {
             currentFile = 'IDLE';
-            updateRP('IDLE');
+            updateRP(null);
           }
       }
     }
@@ -35,6 +35,8 @@ async function checkPhotoshop() {
 }
 
 function updateRP(status) {
+  if (status == null) status = 'IDLE';  
+  
   client.setActivity({
     details: 'CC 2018',
     state: status,
