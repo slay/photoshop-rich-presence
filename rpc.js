@@ -2,7 +2,7 @@ const { Client } = require('discord-rpc'),
       monitor = require('active-win');
 
 const client = new Client({ transport: 'ipc' }),
-      clientID = '486564303915188244';
+      clientID = '513802765139574786';
 
 var currentFile = null;
 
