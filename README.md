@@ -19,7 +19,7 @@ How to Setup
    
    **Of course, Discord and Photoshop should be open when running the RPC**
    
-   - Clone this repository: `git clone https://github.com/vereas/photoshop-rich-presence.git`
+   - Clone this repository: `git clone https://github.com/imslayter/photoshop-rich-presence.git`
    - Install the required modules using: `npm install`
    - Run the RPC with: `node rpc`
 
