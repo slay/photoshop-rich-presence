@@ -2,7 +2,7 @@ const { Client } = require('discord-rpc'),
       monitor = require('active-win');
 
 const client = new Client({ transport: 'ipc' }),
-      clientID = '513802765139574786';
+      clientId = '513802765139574786';
 
 var currentFile = null;
 
@@ -64,4 +64,4 @@ client.on('ready', () => {
   }, 15000);
 });
 
-client.login(clientID).catch(console.error);
+client.login({ clientId }).catch(console.error);
